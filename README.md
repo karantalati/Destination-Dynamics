@@ -43,13 +43,7 @@ Each record in the dataset includes the following fields:
 - **Smart Crowds Management**: Using GRU, LSTM models and other advanced forecasting tools and ensemble methods, we anticipate peak periods and manage visitor density, enhancing the overall experience while preserving site integrity.
 - **Demographic Insights**: Utilized our sophisticated ensemble models to predict the average age of tourists, enabling tailored marketing strategies and enhanced visitor experiences by aligning services with demographic preferences.
 - **Price Dynamics**: Experience our dynamic pricing model that smartly adjusts costs, enticing visits during quieter times, enhancing peace without breaking the bank.
-
-## 📈 Model Comparison
-
-Here's a look at how different models stack up against each other in terms of performance. The table below provides a comparative overview of the models used in our analysis.
-
-![Model Comparison Table](/images/model_comparison.png)
-
+  
 ## 🤔 Research Questions
 
 As we continue to delve deeper into the data and refine our models, these are some of the critical questions guiding our research:
@@ -58,6 +52,12 @@ As we continue to delve deeper into the data and refine our models, these are so
 2. How can the analysis of age demographics and their visiting patterns assist in predicting the number of visitors during specific time slots at popular tourist attractions, and how can this demographic insight be utilized to tailor tourist experiences more effectively?
 3. What impact does the implementation of a dynamic pricing model have on the economic sustainability of tourist destinations, and how significantly can it alter visitor behavior in terms of choosing less crowded times and destinations?
 4. What external factors like weather influence visitor numbers, and how can these be integrated into the predictive model?
+## 📈 Model Comparison
+
+Here's a look at how different models stack up against each other in terms of performance. The table below provides a comparative overview of the models used in our analysis.
+
+![Model Comparison Table](https://github.com/karantalati/Destination-Dynamics/blob/e8ce9ba2be466a51f80376edd6bc3ce11f37a15c/images/model_comparison.png)
+
 
 ### 📊 Visual Insights
 Below are some visualizations derived from our dataset, showcasing patterns and insights:
